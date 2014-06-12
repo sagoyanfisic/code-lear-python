@@ -1,0 +1,16 @@
+numpy
+BeautifulSoup
+https://pypi.python.org/packages/source/p/pdfminer/pdfminer-20110515.tar.gz#md5=f3905f801ed469900d9e5af959c7631a
+
+BeautifulSoup==3.2.1
+argparse==1.2.1
+beautifulsoup4==4.3.2
+numpy==1.8.1
+pandas==0.14.0
+pdf-table-extract==0.1
+pdfminer==20110515
+python-dateutil==2.2
+pytz==2014.4
+six==1.6.1
+wsgiref==0.1.2
+pdf-table-extract

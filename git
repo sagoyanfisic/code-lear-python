@@ -1,0 +1,39 @@
+arramcar xp
+git init 
+
+crear arcg
+touch README
+
+git add README
+
+git commit -m "comenta ps"
+
+git push 
+
+  586  git init 
+  587  ls
+  588  ls -a
+  589  cd .git/
+  590  ls
+  591  git add
+  592  cd ..
+  593  git add
+  594  git add .
+  595  git commit -m "lalalal no tocar"
+  596  git branch 
+  597  git branch -v
+  598  git push origin master 
+  599  sudo git push origin master 
+  600  sudo git push origin 
+  601  cd
+  602  mkdir gitclase
+  603  cd gitclase/
+  604  git init
+  605  touch README2
+  606  git add README2
+  607  git status
+  608  git commit -m "readme2 para nose"
+  609  git remote add origin git@github.com:sagoyanfisic/Proyecto_DS.git
+  610  git pull origin master
+  611  ls
+  612  git push origin master
