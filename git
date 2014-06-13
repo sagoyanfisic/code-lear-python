@@ -32,8 +32,34 @@ git push
   605  touch README2
   606  git add README2
   607  git status
-  608  git commit -m "readme2 para nose"
+  608  git .commit -m "readme2 para nose"
   609  git remote add origin git@github.com:sagoyanfisic/Proyecto_DS.git
   610  git pull origin master
   611  ls
-  612  git push origin master
+  612  git push origin 
+   646  rm flisol.lima/
+  647  rm -f flisol.lima/
+  648  rm -rf flisol.lima/
+  649  mkdir Flisol-lima
+  650  cd Flisol-lima/
+  651  git init
+  652  git remote add origin git@github.com:sagoyanfisic/flisol-lima-este.git
+  653  ls 
+  654  ls -a
+  655  git pull origin master
+  656  cd 
+  657  cd Escritorio/Datos2/Python/
+  658  ls
+  659  git init
+  660  git remot add origin git@github.com:sagoyanfisic/PrincipioPython.git
+  661  git remote add origin git@github.com:sagoyanfisic/PrincipioPython.git
+  662  hisotory
+  663  git commit -m "archivos python"
+  664  git commit -m "archivos python" *
+  665  git commit -m "archivos python" .
+  666  git pull origin master
+  667  git push origin master
+  668  git add .
+  669  git commit -m "lalalla python :p "
+  670  git push origin master
+  671  history
