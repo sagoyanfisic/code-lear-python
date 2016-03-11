@@ -8,7 +8,7 @@ while True :
         print dado 
         print dado2
     if dado==dado2 :
-        print "SOn iguales"
+        print "Son iguales"
     elif valor is "0":   
       print "Encontraron dados seguro :( \n Apagando...."
       print "\nApagando..."*6
